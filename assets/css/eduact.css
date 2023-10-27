@@ -12128,7 +12128,7 @@ body.megamenu-popup-active .mobile-nav__content {
 /*-- Copyright --*/
 .copyright {
   position: relative;
-  background-color: #1F1944;
+  background-color: #004B23;
   padding: 27px 0 28px;
 }
 
@@ -12147,7 +12147,7 @@ body.megamenu-popup-active .mobile-nav__content {
 
 /*-- Footer Two --*/
 .main-footer-two {
-  background-color: #004B23;
+  background-color: #007200;
   position: relative;
   padding: 120px 0 115px;
 }
