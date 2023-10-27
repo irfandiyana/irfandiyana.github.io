@@ -279,7 +279,8 @@ figure {
 }
 img,
 svg {
-  vertical-align:middle
+  vertical-align:middle;
+  /*! height: revert-layer; */
 }
 table {
   caption-side:bottom;
