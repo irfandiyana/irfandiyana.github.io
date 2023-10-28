@@ -974,8 +974,8 @@
 
 .team-three {
   position: relative;
-  background-position: top center;
-  background-repeat: no-repeat;
+  background-position: center;
+  background-repeat: repeat;
   padding: 116px 0 85px;
 }
 
