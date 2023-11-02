@@ -3861,6 +3861,10 @@ h6 {
 }
 
 /* section title */
+.title-nav {
+  text-align: center;
+  padding-top: 60px;
+}
 .section-title {
   position: relative;
   display: block;
