@@ -4530,7 +4530,8 @@ h6 {
 }
 
 .main-header-two .main-menu__nav {
-  margin-right: 50px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 @media (max-width: 1399px) {
