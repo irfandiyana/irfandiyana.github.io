@@ -8884,7 +8884,7 @@ body.megamenu-popup-active .mobile-nav__content {
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  background: rgba(54, 48, 93, 0.8);
+  background: rgba(0, 75, 35, 0.8);
 }
 
 .category-three__icon {
